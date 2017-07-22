@@ -140,3 +140,9 @@ ORIGINAL CSS
   border: none;
   display: block;
 }
+
+.clearfix::after {
+    content:" ";
+    display:block;
+    clear:both;
+}
