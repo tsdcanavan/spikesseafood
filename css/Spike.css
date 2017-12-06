@@ -37,32 +37,6 @@ footer {
   margin: 0px 5px;
 }
 
-
-
-/****************************
-INFO DATA - CURRENTLY NOT USED - 7/12/17 TMC
-****************************/
-#info {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-#info li {
-  float: left;
-  width: 45%;
-  margin: 2.5%;
-  color: #edfbfc;
-}
-
-#info li a p {
-  margin: 0;
-  padding: 5%;
-  font-size: 0.75em;
-  color: #edfbfc;
-}
-
-
 /****************************
 FOOD GALLERY
 ****************************/
@@ -106,24 +80,8 @@ ORIGINAL CSS
   text-align: center;
 }
 
-.bannerPrimary {
-  display: block;
-  float: left;
-  margin: auto;
-  width: 45%;
-  clear: both;
-}
-
-.bannerSecondary {
-  display: block;
-  float: right;
-  margin: auto;
-  width: 45%;
-  clear: both;
-
-}
-
 .bannerImage {
+  align: left;
 	display: 	block;
 	margin: 	auto;
 	width: 	50%; 
